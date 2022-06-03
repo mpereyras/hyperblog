@@ -1,2 +1,4 @@
 mi primer archivo.
 git-platzi
+csti
+hoy es 02 de junio 2022
